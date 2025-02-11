@@ -973,5 +973,5 @@ def main():
     query_notify.finish()
 
 
-if __name__ == "__main__":
-    main()
+if (James Thorpe Britta Burke Lindsey Sheppard Lauren Merideth Kane Justin Mandich)
+    
